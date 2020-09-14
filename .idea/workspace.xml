@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72961b3a-0fc2-49a8-8a9b-60d248d7f682" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eJqVy2Yojg7Ojie1Efq0BnwMUh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ex_10">
+    <configuration name="count_most_common10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_For_Everybody" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/file" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file/count_most_common10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_For_Everybody" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/file" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file/ex_10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="find_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_For_Everybody" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/file" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file/find_search.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reading_clown_intro_txt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_For_Everybody" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/file" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file/reading_clown_intro_txt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tuples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_For_Everybody" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tuples.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ex_10" />
+        <item itemvalue="Python.find_search" />
+        <item itemvalue="Python.reading_clown_intro_txt" />
+        <item itemvalue="Python.count_most_common10" />
+        <item itemvalue="Python.tuples" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72961b3a-0fc2-49a8-8a9b-60d248d7f682" name="Default Changelist" comment="" />
+      <created>1594050070990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594050070990</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="367" y="247" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594095057523">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="367" y="247" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.823@0.23.1440.823" timestamp="1594095057523" />
+    <state width="1076" height="219" key="GridCell.Tab.0.bottom" timestamp="1599600524329">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1440" height="217" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594070463094" />
+    <state width="1076" height="217" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1594055730732" />
+    <state width="1076" height="219" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1594314604359" />
+    <state width="1076" height="219" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1595266877601" />
+    <state width="1076" height="219" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1594529010210" />
+    <state width="1076" height="219" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1599400425489" />
+    <state width="1076" height="219" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1599600524329" />
+    <state width="1076" height="219" key="GridCell.Tab.0.center" timestamp="1599600524328">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1440" height="217" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594070463092" />
+    <state width="1076" height="217" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1594055730731" />
+    <state width="1076" height="219" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1594314604358" />
+    <state width="1076" height="219" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1595266877601" />
+    <state width="1076" height="219" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1594529010209" />
+    <state width="1076" height="219" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1599400425488" />
+    <state width="1076" height="219" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1599600524328" />
+    <state width="1076" height="219" key="GridCell.Tab.0.left" timestamp="1599600524327">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1440" height="217" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594070463091" />
+    <state width="1076" height="217" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1594055730731" />
+    <state width="1076" height="219" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1594314604357" />
+    <state width="1076" height="219" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1595266877601" />
+    <state width="1076" height="219" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1594529010209" />
+    <state width="1076" height="219" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1599400425487" />
+    <state width="1076" height="219" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1599600524327" />
+    <state width="1076" height="219" key="GridCell.Tab.0.right" timestamp="1599600524328">
+      <screen x="0" y="23" width="1440" height="830" />
+    </state>
+    <state width="1440" height="217" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594070463093" />
+    <state width="1076" height="217" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1594055730732" />
+    <state width="1076" height="219" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1594314604358" />
+    <state width="1076" height="219" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1595266877601" />
+    <state width="1076" height="219" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1594529010210" />
+    <state width="1076" height="219" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1599400425488" />
+    <state width="1076" height="219" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1599600524328" />
+    <state x="355" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1600095365555">
+      <screen x="0" y="23" width="1440" height="837" />
+    </state>
+    <state x="355" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1594050078091" />
+    <state x="355" y="268" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1599318804665" />
+    <state x="355" y="270" key="com.intellij.ide.util.TipDialog/0.23.1440.828@0.23.1440.828" timestamp="1599399834920" />
+    <state x="355" y="273" key="com.intellij.ide.util.TipDialog/0.23.1440.837@0.23.1440.837" timestamp="1600095365555" />
+  </component>
+</project>
